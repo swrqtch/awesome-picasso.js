@@ -28,7 +28,6 @@ A collection of awesome resources related to [picasso.js](https://picassojs.com)
 - [Contributing](#contributing)
 - [License](#license)
 
-
 ---
 
 # Contents 
@@ -52,6 +51,7 @@ picasso.js definitions for different chart types:
 ### General
 
 - [Chart Collection](https://beta.observablehq.com/@miralemd/picasso-js-chart-collection) - picasso.js chart collection.
+- [Fantastic Chart](https://github.com/fantastic/picasso-fantastic) - A fantastic chart.
 
 ### Area Charts
 
