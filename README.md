@@ -27,7 +27,7 @@ A collection of awesome resources related to [picasso.js](https://picassojs.com)
   - [Experts to follow](#experts-to-follow)
 - [Contributing](#contributing)
 - [License](#license)
-
+s
 
 ---
 
